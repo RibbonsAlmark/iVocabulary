@@ -1,0 +1,5 @@
+pyenchant
+bs4
+pymysql
+pydub
+simpleaudio

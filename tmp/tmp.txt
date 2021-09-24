@@ -1,0 +1,1254 @@
+! frustrate                      | us: /ˈfrʌstreɪt/                                   | vt.*挫败，使灰心*，阻挠，使受挫折   【setback，bummer，frustrate】
+        e.g. The fact that he's working with amateurs really frustrates him.
+        与生手共事着实让他沮丧。
+        e.g. Their attempts to speak to him were frustrated by the guards.
+        他们想跟他说话,但被警卫拦住了。
+        e.g. What frustrates him is that there's too little money to spend on the project.
+        使他懊恼的是，可用于这个项目的资金太少。
+        e.g. The rescue attempt was frustrated by bad weather.
+        拯救行动因天气恶劣受阻。
+        e.g. These questions frustrated me...
+        这些问题让我沮丧。
+        e.g. Doesn't it frustrate you that audiences in the theatre are so restricted?
+        观众在剧场里要受到如此多的限制，这难道不令人恼火吗？
+        e.g. The government has deliberately frustrated his efforts to gain work permits for his foreign staff.
+        政府故意阻挠他为自己的外籍员工申请工作许可证的努力。
+        e.g. ...her frustrated attempt to become governor.
+        她竞选州长的受挫之举
+        e.g. We will frustrate you, my friends, deep as you think yourselves.
+        我的朋友呀, 尽管你们自以为高深莫测, 我们会挫败你们的.
+        e.g. I know I frustrate you sometimes, but I'll change, can't we start over?
+        我知道我有时候很让你泄气, 但我会改的, 我们能重新开始 吗 ?
+          explode                        | us: /ɪkˈsploʊd/                                    | v.*使爆炸，（感情）爆发*，激增，推翻（理论），突发巨响
+        e.g. The device was thrown at an army patrol but failed to explode.
+        炸弹投向了陆军巡逻队,但没有爆炸。
+        e.g. Far sooner than anyone thought possible, the Russians exploded an atomic bomb.
+        苏联引爆了一颗原子弹,大大早于任何人的预期。
+        e.g. Florida's population exploded after World War II.
+        第二次世界大战后,佛罗里达州的人口急剧增长。
+        e.g. Paul exploded. 'What has it got to do with you?' he yelled.
+        保罗大发雷霆。“这和你有什么关系？”他大声喊道。
+        e.g. Riots may explode at any time.
+        暴乱随时可能发生。
+        e.g. The programme sets out to explode the myth that some delicate tropical fish are impossible to keep.
+        这节目一心要推翻关于某些娇弱的热带鱼不可能养活的错误观点。
+        e.g. A clap of thunder exploded overhead.
+        一声惊雷在头顶炸响。
+        e.g. There was a huge bang as if someone had exploded a rocket outside.
+        突然一声巨响，仿佛有人在外面引爆了火箭似的。
+        e.g. Bomb disposal experts exploded the device under controlled conditions.
+        炸弹销毁专家在受控条件下引爆了这个装置。
+        e.g. Suddenly Charles exploded with rage.
+        查尔斯勃然大怒。
+        ! commitment                     | us: /kəˈmɪtmənt/                                   | n.*承诺，保证*，信奉，忠诚，已许诺的事，献身，投入，花费
+        e.g. I was impressed by the energy and commitment shown by the players.
+        选手们表现出的活力和奉献精神给我留下了深刻印象。
+        e.g. I had a lot of financial commitments.
+        我有许多款项需要定期支付。
+        e.g. commitments of food and medical aid of over $4 billion
+        投入超过40亿美元的食物和医药援助
+        e.g. the commitment of resources to education
+        对教育的资源投入
+        e.g. Achieving success at this level requires a commitment of time and energy.
+        取得这种水平的成就需要花费时间和精力。
+        e.g. Women very often have to juggle work with their family commitments.
+        妇女经常得两头兼顾，既要工作又要照管家庭。
+        e.g. The company's commitment to providing quality at a reasonable price has been vital to its success.
+        这家公司保证供货质优价廉的承诺对它的成功起了决定性的作用。
+        e.g. the government's commitment to public services
+        政府对公共服务事业作出的承诺
+        e.g. A career as an actor requires one hundred per cent commitment.
+        干演员这一行需要百分之百的投入。
+        e.g. He's busy for the next month with filming commitments.
+        他正忙于准备已经承诺的下个月拍电影的事。
+        ! intricate                      | us: /ˈɪntrɪkət/                                    | adj.*错综复杂的，难理解的*，曲折，盘错
+        e.g. intricate patterns
+        繁复的图案
+        e.g. intricate patterns
+        复杂的图案
+        e.g. an intricate network of loyalties and relationships
+        忠诚与义气构成的盘根错节的网络
+        e.g. intricately carved
+        精雕细刻的
+        e.g. ...intricate patterns and motifs.
+        复杂的式样与图案
+        e.g. It's a novel an intricate plot.
+        这是一本情节复杂的小说.
+        e.g. Threads of different colors and textures were woven into an intricate pattern.
+        各种花色和质地的线织成了一幅复杂的图案.
+        e.g. Because stepped a new way that leads blood, that piece of intricate network more appear complex.
+        由于踏出了一条新的带血的路, 那张错综的网更显得错综.
+        e.g. The design is intricate.
+        这个设计是错综复杂的.
+        e.g. The nests are intricate structures beautifully woven by the male birds.
+        鸟巢错综复杂的结构是由公鸟完美的编制的.
+        ! invent                         | us: /ɪnˈvent/                                      | v.*发明，虚构*，编造
+        e.g. Alexander Graham Bell invented the telephone in 1876.
+        亚历山大·格雷厄姆·贝尔于1876年发明了电话。
+        e.g. They invented a very convincing alibi.
+        他们编造了很有说服力的不在犯罪现场的证据。
+        e.g. Who invented the steam engine?
+        谁发明了蒸汽机？
+        e.g. What excuse did he invent this time?
+        他这次编了什么借口？
+        e.g. Many children invent an imaginary friend.
+        很多儿童都有一个假想朋友。
+        e.g. He invented the first electric clock...
+        他发明了第一个电动机械钟。
+        e.g. Writing had not been invented as yet.
+        书写体系当时还没有创造出来。
+        e.g. I stood still, trying to invent a plausible excuse.
+        我站着不动,试图编个说得过去的借口。
+        e.g. This kind of machine is invent in the 1970's.
+        这种机器是七十年代发明的.
+        e.g. Efforts to invent new ways to bring together Chinese money and Hong Kong stocks continue.
+        有关方面仍在继续努力推出将大陆资金引入香港股市的措施.
+          arc                            | us: /ɑːrk/                                         | n.弧（形），电弧   v.成弧线，呈弧形   【curve】
+        e.g. The Sun moves across the sky in an arc.
+        太阳在天空中以弧线方式运行。
+        e.g. the arc of a rainbow
+        彩虹的弧状
+        e.g. the arc of a rainbow
+        彩虹的弧形
+        e.g. The beach swept around in an arc.
+        海滩呈弧形伸展开来。
+        e.g. The Aleutian chain is a long arc of islands in the North Pacific.
+        阿留申群岛是北太平洋上一长串呈弧形排列的小岛。
+        e.g. A rainbow arced gracefully over the town.
+        彩虹在小城上空画出了一道优美的弧线。
+        e.g. White aluminium oxide abrasive is electrically fused in an arc furnace processed alumina as raw material.
+        白刚玉是以铝氧粉为原料,在电弧炉内经高温冶炼而成.
+        e.g. It is also suitable for carbon arc gouging using up to 10 mm diameter carbon electrodes.
+        即使使用直径高达10毫米的碳棒进行碳弧气刨,这款焊接电源也能应对自如.
+        e.g. Joan of Arc was burnt ( alive ) at the stake.
+        圣女贞德在火刑柱上被 ( 活活 ) 烧死.
+        e.g. ZX 3、 ZXG & M sery DC arc welder are the DC welder that use silicon rectifier.
+        ZX3、 ZXG 、M系列直流弧焊机是一种采用硅整流电路的焊接设备,本系列焊机与旋转直流焊机相比,具有重量轻、噪声、率高、明显的节能效果.
+          two-paycheck                   | us: //                                             | adj.*双职工的*，有双份收入的
+        ! expert                         | us: /ˈekspɜːrt/                                    | n.*专家*，行家   adj.*熟练的*，娴熟的，行家的，专业的   【proficiency，tact，veteran】
+        e.g. a computer/medical expert
+        计算机 / 医学专家
+        e.g. an expert in child psychology
+        儿童心理学家
+        e.g. an expert on modern literature
+        现代文学研究专家
+        e.g. He's an expert at getting his own way.
+        他在如何达到自己的目的方面很在行。
+        e.g. Don't ask me─I'm no expert!
+        不要问我——我不是行家！
+        e.g. to seek expert advice/an expert opinion
+        征求专家意见
+        e.g. an expert driver
+        技术高超的驾驶员
+        e.g. We need some expert help.
+        我们需要一些内行的帮助。
+        e.g. She's expert at making cheap but stylish clothes.
+        她擅长做便宜但雅致的服装。
+        e.g. They are all expert in this field.
+        他们都是这个领域的行家。
+        ! distinct                       | us: /dɪˈstɪŋkt/                                    | adj.*清楚的，明显的*，不同的，确切的
+        e.g. a movie star, as distinct from an actor
+        一个电影明星,和演员是两回事
+        e.g. The outline of the ship became more distinct.
+        船的轮廓变得更加清晰了。
+        e.g. Jamaican reggae music is quite distinct from North American jazz or blues.
+        牙买加的雷盖音乐完全不同于北美的爵士乐或布鲁斯音乐。
+        e.g. rural areas, as distinct from major cities
+        完全不同于大城市的农村地区
+        e.g. Being tall gave Tony a distinct advantage.
+        托尼个子高是个明显的优势。
+        e.g. I had the distinct impression I was being watched.
+        我确实感到有人在监视我。
+        e.g. A strike is now a distinct possibility.
+        目前罢工确有可能发生。
+        e.g. I distinctly heard someone calling me.
+        我清楚地听到有人在叫我。
+        e.g. a distinctly Australian accent
+        明显的澳大利亚口音
+        e.g. He could remember everything very distinctly.
+        他什么事都能记得清清楚楚。
+          comment                        | us: /ˈkɑːment/                                     | v.发表意见   n.评论，解释，批评，写照   【remark】
+        e.g. The speech received much comment in the press.
+        这番讲话引来媒体热议。
+        e.g. He was fined for making abusive comments to the referee.
+        他因谩骂裁判而被罚款。
+        e.g. Have you any comment to make about the cause of the disaster?
+        你对发生灾难的原因有何评论？
+        e.g. She made helpful comments on my work.
+        她对我的工作提出了有益的意见。
+        e.g. The director was not available for comment.
+        经理抽不出时间来作出评论。
+        e.g. He handed me the document without comment.
+        他未作任何解释就把文件交给了我。
+        e.g. (especially British English)What she said was fair comment (= a reasonable criticism) .
+        她所讲的是合乎情理的批评。
+        e.g. The results are a clear comment on government education policy.
+        这些结果是对政府教育政策明显的批评。
+        e.g. There was a lot of comment about his behaviour.
+        对他的行为举止有很多的议论。
+        e.g. ‘Will you resign, sir? ’ ‘No comment! ’
+        “先生，你会辞职吗？”“无可奉告！”
+        ! express                        | us: /ɪkˈspres/                                     | v.*表达*，表示，不言自明，挤出，快递   adj.明确的，特快的，用快递寄送的   adv.用快递寄出某物   n.特快列车，长途汽车，快递服务
+        e.g. As soon as I receive payment I will express the book to you.
+        我一收到款就把书用快递给你寄去。
+        e.g. an express bus/coach/train
+        特快公共汽车 / 长途汽车 / 列车
+        e.g. express delivery services
+        快递服务
+        e.g. express mail
+        特快邮件
+        e.g. an air express company
+        航空快递公司
+        e.g. It was his express wish that you should have his gold watch after he died.
+        他明确表示死后把金表留给你。
+        e.g. Coconut milk is expressed from grated coconuts.
+        椰子汁是从擦碎的椰肉里榨出来的。
+        e.g. She expresses herself most fully in her paintings.
+        她把自己的感情在画作中表现得淋漓尽致。
+        e.g. They expressed themselves delighted.
+        他们表示他们很高兴。
+        e.g. Their pleasure expressed itself in a burst of applause.
+        他们的喜悦从一阵热烈的掌声中表现出来。
+          playgoing                      | us: /'plegoʊɪŋ/                                    | n.看戏，看话剧
+        ! revitalize                     | us: /riˈvaɪtlˌaɪz/                                 | vt.*使复活，使恢复*，使恢复元气，使新生，使复兴   【revive；renew，restore，rally】
+        e.g. measures to revitalize the inner cities
+        让市中心更加繁荣的措施
+        e.g. Congress has tried dozens of approaches to revitalize decaying urban and rural areas.
+        国会已试行过数十种方法来重振正在走向衰败的城乡地区。
+        e.g. We need to revitalize human nutritional research.
+        我们需要振兴人类营养学研究.
+        e.g. The shakeup gave Clinton a chance to revitalize his weary team.
+        此次内阁改组给克林顿以机会使其疲惫的内阁恢复活力.
+        e.g. We should all strive to reunify our motherland and revitalize our nation.
+        我们要共同奋斗,实现祖国统一和民族振兴.
+        e.g. And she urges efforts to revitalize the circulation of rural commodities.
+        她同时敦促各方致力于重振农村商品流通的活力.
+        e.g. Current, countrywide seed system is in executive seed project, revitalize seminal industry.
+        当前, 全国种子系统都在实施种子工程, 振兴种子产业.
+        e.g. Time will not wait for me, need is adopted revitalize measure strongly.
+        时不我待, 需要采取有力的振兴措施.
+        e.g. Because of DSD , it is now possible to revitalize the music world.
+        因为DSD, 现在它可使音乐世界恢复生气.
+        e.g. Can Obama's revitalize trade finance?
+        奥巴马能重振贸易融资 吗 ?
+        ! fume                           | us: /fjuːm/                                        | n.*(难闻且常为有害的)烟，气体*   v.冒烟，冒气，发怒，生气
+        e.g. 'You've no right to be here,' he fumed.
+        “你没有权利待在这里。”他气呼呼地说道。
+        e.g. They have been protesting about fumes from a chlorine factory.
+        他们一直在抗议一家氯工厂排放有毒气体。
+        e.g. 'It's monstrous!' Jackie fumed...
+        “真是太过分了！”杰姬气冲冲地说。
+        e.g. ...car exhaust fumes...
+        汽车尾气
+        e.g. Duct fume site monitoring works are easily to be operated.
+        烟道气现场监测,易出差错.
+        e.g. The pump exhaust should lead to the open air or a fume hood.
+        抽气泵的排气管应该导向室外空旷处或导向一座通风橱.
+        e.g. The sample was dissolved in acid and acid , and acid fume was used to destroy fluorine.
+        试样以硝酸、氢氟酸溶解, 用高氯酸冒烟驱除氟.
+        e.g. And, from his eye, I see I fume special beauty.
+        而且, 从他的眼睛里, 我看到自己熏非常漂亮.
+        e.g. Main products are laboratory furniture , fume hood , ESD workstation , storage cabinet , high purity gas distribution, etc.
+        气路的设计和安装;为您精心打造安全的 、 科学的 、 绿色的实验室.
+        e.g. Gas defence as a result of lack measure, fume the worker is dizzily, some vomits.
+        由于缺乏防毒措施, 熏得工人头昏眼花, 有的呕吐.
+          fulfill                        | us: /fʊl'fɪl/                                      | vt.*完成（任务），达到（目的）*，履行（诺言等），执行（命令等），使结束
+        e.g. If you make a promise you should fulfill it.
+        如果你许诺了,你就要履行你的诺言.
+        e.g. Forgiveness means the to always forgive people for able to fulfill all your needs.
+        宽恕意味着愿意不断地去原谅那些无法满足你所有需求的人们.
+        e.g. You then open arms, a pair fulfill their duties and full of selfless love of arms.
+        你那张开的双臂, 是一双恪尽职守、充满无私大爱的双臂.
+        e.g. Happy anniversary! May the years ahead fulfill all your hope.
+        祝结婚周年快乐, 愿今后年年如愿以偿.
+        e.g. It falls to our generation to fulfill the great aspirations cherished by countless martyrs in the past.
+        过去无数先烈的远大抱负,要我们这一代去实现.
+        e.g. This company should be able to fulfill our requirements.
+        这家公司应该能够满足我们的要求.
+        e.g. Live up to your role and status , and fulfill your required duties.
+        你是有那些身分的人, 就应该做那些身分的事.
+        e.g. The annual turnover of such product we can fulfill will amount to 2 million dollar.
+        这种产品的年销售量我们可以完成200万美元.
+        e.g. A nurse has to fulfill many duties in caring for the sick.
+        护士在照顾病人时要尽很多责任.
+        e.g. We all working hard to fulfill the countrys plans.
+        我们都在努力完成国家计划.
+          playgoer                       | us: /ˈpleɪgoʊər/                                   | n.爱看戏的人，常看戏的人
+        ! plea                           | us: /pliː/                                         | n.*恳求，请求，辩护*，（被告或被告律师的）抗辩，答辩，借口，托辞，请愿   【plead；appeal】
+        e.g. a guilty plea
+        承认有罪
+        e.g. He refused the appointment on a plea of illness.
+        他称病拒绝了那次约会。
+        e.g. She made an impassioned plea for help.
+        她恳切地求助。
+        e.g. a plea to industries to stop pollution
+        请求实业界停止污染
+        e.g. He refused to listen to her tearful pleas.
+        他对她声泪俱下的恳求置之不理。
+        e.g. a plea of guilty/not guilty
+        承认 / 不承认有罪
+        e.g. to enter a guilty plea
+        正式表示认罪
+        e.g. He was charged with murder, but got off on a plea of insanity.
+        他被指控犯了谋杀罪，但以精神错乱为由逃过惩罚。
+        e.g. Mr Nicholas made his emotional plea for help in solving the killing.
+        尼古拉斯先生恳请帮助以解决这起凶杀案。
+        e.g. ...an impassioned plea to mankind to act to save the planet.
+        让人类行动起来拯救这个星球的慷慨激昂的呼吁
+        ! revive                         | us: /rɪˈvaɪv/                                      | vt.*恢复，使复苏*，使复活，使恢复，使振奋，复原，使再生，使重新流行，唤醒，唤起   vi.复苏，恢复，振作，恢复，再生，重新流行，再生效力   【revitalize；renew，restore，rally】
+        e.g. Local people have decided to revive this centuries-old tradition.
+        当地人决定复兴这一延续了数个世纪的传统。
+        e.g. The economy is beginning to revive.
+        经济开始复苏。
+        e.g. an attempt to revive the steel industry
+        复苏钢铁工业的努力
+        e.g. The doctors revived her with injections of glucose.
+        医生给她注射葡萄糖,使她苏醒过来。
+        e.g. A London theatre has decided to revive the 1950s musical 'In Town'.
+        伦敦的一家剧院决定重新排演20世纪50年代的音乐剧《在镇上》。
+        e.g. The flowers soon revived in water.
+        这些花见了水很快就活过来了。
+        e.g. The economy is beginning to revive.
+        经济开始复苏。
+        e.g. The paramedics couldn't revive her.
+        护理人员无法使她苏醒。
+        e.g. This movie is intended to revive her flagging career.
+        这部电影意在使她渐趋衰败的事业再现辉煌。
+        e.g. This quaint custom should be revived.
+        应该恢复这一独特的风俗。
+        ! expose                         | us: /ɪkˈspoʊz/                                     | v.揭发，使暴露，使接触   【disclose，reveal】
+        e.g. He lifted his T-shirt to expose a jagged scar across his chest.
+        他撩起T恤衫,露出横贯胸部的锯齿状伤疤。
+        e.g. The film exposes the utter horror of war.
+        这部电影揭示了战争的极端恐怖。
+        e.g. I'm afraid I might expose my real feelings for him.
+        恐怕我会流露出对他的真实感情。
+        e.g. Miles of sand are exposed at low tide.
+        在低潮时数英里的沙滩就会显现出来。
+        e.g. My job as a journalist is to expose the truth.
+        我作为记者的职责就是展示事实。
+        e.g. He did not want to expose his fears and insecurity to anyone.
+        他不想向任何人显露他的恐惧与不安。
+        e.g. She was exposed as a liar and a fraud.
+        她说谎和欺骗的面目被揭穿了。
+        e.g. He threatened to expose the racism that existed within the police force.
+        他扬言要把警察内部存在的种族歧视公之于众。
+        e.g. to expose yourself to ridicule
+        让自己受到嘲笑
+        e.g. Do not expose babies to strong sunlight.
+        不要让婴孩受到强烈的阳光照射。
+        ! intuition                      | us: /ˌɪntuˈɪʃn/                                    | n.*直觉*，凭直觉感知的知识，直觉力
+        e.g. feminine intuition
+        女性的直觉
+        e.g. Intuition told her it was unwise to argue.
+        直觉告诉她争吵是不理智的。
+        e.g. We should trust our intuitions.
+        我们应该相信自己的直觉。
+        e.g. I had an intuition that something awful was about to happen.
+        我直觉感到要出乱子了。
+        e.g. Her intuition was telling her that something was wrong...
+        她的直觉告诉她一定出了什么问题。
+        e.g. You can't make a case on your intuitions, Phil.
+        菲尔,你不能凭直觉来作出解释。
+        e.g. Intuition is reason in the hurry.
+        直觉是仓促反应的理由.
+        e.g. Bergson proclaimed that there are three modes of apprehending the world: perception, rationality, and intuition.
+        柏格森声称,认识世界的方式有三种: 感知 、 理性和直觉.
+        e.g. It was said in a flash of intuition.
+        这话是凭一刹那的直觉说出的.
+        e.g. Language intuition is a must for a competent translator.
+        对于一名成熟的翻译而言,语言的直觉必不可少.
+        ! extinct                        | us: /ɪkˈstɪŋkt/                                    | adj.*消灭的，灭绝的*，废除了的，（火山）死的   【extinct，extinction，extinguish】
+        e.g. Dinosaurs have been extinct for millions of years.
+        恐龙已灭绝数千万年了。
+        e.g. an extinct species
+        已灭绝的一个物种
+        e.g. an extinct species
+        已灭绝的物种
+        e.g. to become extinct
+        绝种
+        e.g. Servants are now almost extinct in modern society.
+        在现代社会里奴仆已近乎不复存在。
+        e.g. It is 250 years since the wolf became extinct in Britain.
+        狼在英国已经灭绝250年了。
+        e.g. ...the bones of extinct animals.
+        灭绝动物的骨骼
+        e.g. If the current trend continues, black farmers in the United States may be extinct by the end of this decade...
+        如果当前趋势继续发展下去，美国的黑人农民将在这个十年末不复存在。
+        e.g. Herbalism had become an all but extinct skill in the Western world.
+        草药医术在西方已经成了一门几乎绝迹的技艺。
+        e.g. Its tallest volcano, long extinct, is Olympus Mons.
+        它最高的火山是早已熄灭的奥林波斯山。
+        ! exploit                        | us: /ɪkˈsplɔɪt , ˈeksplɔɪt/                        | v.*利用，开发*，剥削，榨取，开采   n.英勇的行为   【exert】
+        e.g. Homeworkers can easily be exploited by employers.
+        在家工作的人容易被雇主剥削。
+        e.g. The violence was blamed on thugs exploiting the situation.
+        暴力事件归咎于这一局面被暴徒所利用。
+        e.g. The new TV companies are fully exploiting the potential of satellite transmission.
+        新创立的电视公司在充分利用卫星传输的潜力。
+        e.g. the urgent need to exploit the resources of the Irish Sea
+        开发爱尔兰海资源的迫切需要
+        e.g. He exploited his father's name to get himself a job.
+        他利用他父亲的名声为自己找到一份工作。
+        e.g. She realized that her youth and inexperience were being exploited.
+        她意识到自己的年轻和缺乏经验正受人利用。
+        e.g. What is being done to stop employers from exploiting young people?
+        目前有什么措施制止雇主剥削年轻人呢？
+        e.g. She fully exploits the humour of her role in the play.
+        她在剧中把她那个角色的幽默发挥得淋漓尽致。
+        e.g. countries exploiting the rainforests for hardwood
+        为获取硬木而开发热带雨林的国家
+        e.g. No minerals have yet been exploited in Antarctica.
+        南极洲的矿藏还未开采。
+        ! extend                         | us: /ɪkˈstend/                                     | v.延长，扩展，扩大，提供   【extent】
+        e.g. to extend a fence/road/house
+        扩建护栏 / 公路 / 房子
+        e.g. There are plans to extend the no-smoking area.
+        现已有扩大无烟区的计划。
+        e.g. to extend a deadline/visa
+        延长最后期限 / 签证
+        e.g. The show has been extended for another six weeks.
+        展览会又延长了六周。
+        e.g. Careful maintenance can extend the life of your car.
+        精心保养可延长汽车寿命。
+        e.g. The company plans to extend its operations into Europe.
+        公司打算将业务扩展到欧洲。
+        e.g. The school is extending the range of subjects taught.
+        学校正在拓宽授课学科的范围。
+        e.g. The offer does not extend to employees' partners.
+        这项优惠不包括雇员的伴侣。
+        e.g. His willingness to help did not extend beyond making a few phone calls.
+        他的乐意帮助只不过限于打几个电话罢了。
+        e.g. Our land extends as far as the river.
+        我们的土地一直延伸到河边。
+        ! extent                         | us: /ɪkˈstent/                                     | n.程度，大小，范围   【scale，scope】
+        e.g. It is difficult to assess the full extent of the damage.
+        损失情况难以全面估计。
+        e.g. She was exaggerating the true extent of the problem.
+        她对这个问题言过其实。
+        e.g. I was amazed at the extent of his knowledge.
+        他知识之渊博令我惊奇。
+        e.g. You can't see the full extent of the beach from here.
+        从这儿看不到海滩全貌。
+        e.g. To a certain extent , we are all responsible for this tragic situation.
+        我们都在一定程度上对这悲惨的局面负有责任。
+        e.g. He had changed to such an extent (= so much) that I no longer recognized him.
+        他变得我简直认不出了。
+        e.g. To some extent what she argues is true.
+        她的论证在某种程度上是符合事实的。
+        e.g. The pollution of the forest has seriously affected plant life and, to a lesser extent , wildlife.
+        森林污染严重影响了植物的生存，其次也对野生动物造成了影响。
+        e.g. To what extent is this true of all schools?
+        这在多大程度上符合所有学校的实际情况？
+        e.g. The book discusses the extent to which (= how much) family life has changed over the past 50 years.
+        本书论述了近50年来家庭生活的变化程度。
+        ! commend                        | us: /kəˈmend/                                      | v.*把···委托给，称赞*，赞扬，推荐，被接受   【command】
+        e.g. Colleagues, I commend this report to you.
+        各位同事,我向你们推荐这份报告。
+        e.g. The plan did not commend itself to the Allies.
+        该计划未得到同盟国的认可。
+        e.g. She was commended on her handling of the situation.
+        她因妥善处理了那个局面而受到表扬。
+        e.g. His designs were highly commended by the judges (= they did not get a prize but they were especially praised) .
+        他的设计受到了评委的高度赞扬。
+        e.g. She is an excellent worker and I commend her to you without reservation.
+        她工作出色，我毫无保留地把她推荐给你。
+        e.g. The movie has little to commend it (= it has few good qualities) .
+        这部电影乏善可陈。
+        e.g. His outspoken behaviour did not commend itself to his colleagues.
+        他直言不讳的行为不受他同事的欢迎。
+        e.g. We commend her soul to God.
+        我们把她的灵魂托付给上帝。
+        e.g. I commended her for that action...
+        我赞扬了她的那一举动。
+        e.g. I commend Ms. Orth on writing such an informative article...
+        我对奥思太太写出内容如此翔实的文章表示赞许。
+        ! disregard                      | us: /ˌdɪsrɪˈɡɑːrd/                                 | v.*不顾，漠视*，不理会   n.漠视，忽视   【regard，regardless；despite】
+        e.g. He ordered the jury to disregard the witness's last statement.
+        他指示陪审团忽略证人的最后陈述。
+        e.g. Mark totally disregarded my advice.
+        马克完全不听我的建议。
+        e.g. The board completely disregarded my recommendations.
+        董事会完全无视我的建议。
+        e.g. Safety rules were disregarded.
+        安全规定被忽视了。
+        e.g. She shows a total disregard for other people's feelings.
+        她丝毫不顾及别人的感受。
+        e.g. He disregarded the advice of his executives...
+        他对主管层的建议置若罔闻。
+        e.g. Critics say he allowed the police and security forces to disregard human rights.
+        批评人士说他听任警察和安全部队漠视人权。
+        e.g. She disregard of rush through back , on bed terms he separates any further.
+        她就不顾一切的赶回来, 再也不和他分开.
+        e.g. His capacity for solitude and disregard for physical comforts helped him to survive the hardships.
+        他甘于孤独寂寞,不顾身体不适,终于度过了艰难困苦.
+        e.g. To break or disregard ( a law or promise, for example ).
+        违犯违反或藐视 ( 如法律,诺言等 )
+          sonar                          | us: /ˈsoʊnɑːr/                                     | n.声呐装置，声呐系统，声呐兵
+        e.g. It works in a similar way to a sonar unit on a warship or submarine.
+        声音从一个形状象双筒电筒样的超声电筒发射出去.
+        e.g. We picked up two submarines on sonar.
+        我们用声呐系统观察到两条潜水艇.
+        e.g. In this paper, a new map building method sonar data is presented.
+        未知环境中移动机器人地图创建是自主移动机器人一项重要的基本功能.
+        e.g. Cavitation is noisy and easily detected by sonar.
+        空泡现象是有噪声的并且容易被声纳探测到.
+        e.g. The whales need sonar to find food.
+        而鲸鱼就是靠这种能力来寻找食物的.
+        e.g. Dolphins navigate by bouncing sonar waves off objects to determine location and distance.
+        海豚靠强大的声纳系统发出声波来确定物体的位置和距离.
+        e.g. A sonar array is a radar towed behind a ship that listens and locates underwater sounds.
+        声纳阵列雷达拖着船舶侦听和位于水下声音.
+        e.g. In this dissertation, we study a supergain array to improve the detection performance of passive sonar.
+        本文从提高被动声呐的检测性能出发,提出了超增益阵的设计.
+        e.g. Therefore , Passive SONAR SONARsubmarine . The traditional SONARs are consisted of middle or small scale Integrated circuit.
+        传统被动声呐系统多半采用中小规模集成电路,体积较大,硬件处理能力低.
+        e.g. For radar and sonar systems, wideband condition has more applications and suitability than narrowband condition.
+        对于雷达、声纳系统而言, 宽带条件往往比窄带条件具有更广泛的适用性.
+        ! dispute                        | us: /dɪˈspjuːt/                                    | v.*争论，争执*，质疑，辩论，争夺   n.争论，争端，纠纷   【quarrel，controversy，debate】
+        e.g. The facts of the case are still in dispute.
+        案件事实仍有争议。
+        e.g. The main facts of the book have never been disputed.
+        书中的主要事实从未遭到质疑。
+        e.g. Soviet forces disputed every inch of ground.
+        苏军寸土必争。
+        e.g. His interpretation of the poem is open to dispute.
+        他对这首诗的诠释有可商榷的地方。
+        e.g. The issue remains hotly disputed .
+        这个问题至今仍在激烈地辩论中。
+        e.g. disputed territory
+        有争议的领土
+        e.g. the latest dispute over fishing rights
+        最近关于捕鱼权的争端
+        e.g. industrial/pay disputes
+        劳资 / 工资纠纷
+        e.g. The union is in dispute with management over working hours.
+        工会与资方在工作时间上发生纠纷。
+        e.g. The cause of the accident was still in dispute (= being argued about) .
+        事故的原因仍在争议之中。
+        ! extinction                     | us: /ɪkˈstɪŋkʃn/                                   | n. 灭绝，消亡   【extinct，extinction，extinguish】
+        e.g. Their traditional way of life seems doomed to extinction.
+        他们的传统生活方式似乎注定要消亡。
+        e.g. a tribe threatened with extinction/in danger of extinction
+        面临消亡威胁 / 有消亡危险的部落
+        e.g. The mountain gorilla is on the verge of extinction .
+        居住在山区的大猩猩已濒临灭绝。
+        e.g. An operation is beginning to try to save a species of crocodile from extinction...
+        一项努力拯救一个鳄鱼物种、使其免于灭绝的行动已经开始。
+        e.g. Many species have been shot to the verge of extinction.
+        很多物种已经被猎杀到灭绝的边缘。
+        e.g. The loggers say their jobs are faced with extinction because of declining timber sales.
+        伐木工人说由于木材销量下降，他们的工作恐不复存在。
+        e.g. The plant is now in danger of extinction.
+        这种植物现在有绝种的危险.
+        e.g. Chinese people do not subjugated, but it faces the danger of extinction.
+        中国人没有亡国, 但却面临着灭种的危险.
+        e.g. The animals were ruthlessly hunted to the verge of extinction.
+        这些动物由于遭到无情的捕猎而濒于灭绝.
+        e.g. It's a plant or animal that is in danger of extinction.
+        它是一种处于灭绝危险之中的植物或动物.
+        ! apprehend                      | us: /ˌæprɪˈhɛnd/                                   | vt.*逮捕，忧虑*，理解，拘押   vi.理解，担心   【interpret，concept】
+        e.g. The police have failed to apprehend the culprits.
+        警方未能拘捕罪犯。
+        e.g. They were slow to apprehend the danger.
+        他们未能迅速意识到危险。
+        e.g. Police have not apprehended her killer.
+        警察还未抓获谋杀她的凶手。
+        e.g. Only now can I begin to apprehend the power of these forces.
+        直到现在我才真正了解这些队伍的力量。
+        e.g. Do you apprehend any difficulty?
+        你担心会有困难 吗 ?
+        e.g. The discovery, I apprehend, is not imperative.
+        我认为, 这个发现不是必不可免的.
+        e.g. And I HAs tried to apprehend the Pythagorean power by which bulk holds above the flux.
+        我试图领悟毕达哥拉斯所景仰的数字力量,它支配着此消彼长.
+        e.g. I apprehend no such danger with you.
+        我明白你不会有这样的危险.
+        e.g. At last I apprehend ed his meaning.
+        最后,我理解了他的意思.
+        e.g. I have tried to apprehend the Pythagorean power by which number holds sway above the flux.
+        我力图领悟毕达哥拉斯的才能,他的才能使数字支配着不断变动的事物.
+        ! poach                          | us: /poʊtʃ/                                        | v.*侵犯，侵入*，水煮，偷猎，窃取，把…踏成泥浆   【intrude】
+        e.g. Deer have been poached here for years.
+        多年来这里一直有人偷偷地猎鹿。
+        e.g. That company's always poaching our staff.
+        那家公司老是挖我们的员工。
+        e.g. poached salmon
+        清炖鲑鱼
+        e.g. The elephants are poached for their tusks.
+        为获取象牙而偷猎大象。
+        e.g. The company poached the contract from their main rivals.
+        这家公司窃取了其主要竞争对手的合同。
+        e.g. Several of our employees have been poached by a rival firm.
+        我们公司有好几名职员被对手公司给挖走了。
+        e.g. I hope I'm not poaching on your territory (= doing sth that is actually your responsibility) .
+        但愿我没有侵犯你的职权。
+        e.g. Many wildlife parks are regularly invaded by people poaching game.
+        很多野生动物园都时常遭到偷猎之徒的侵入。
+        e.g. The company authorised its staff to poach customers from the opposition.
+        公司指使其职员挖对手的客户。
+        e.g. ...allegations that it had poached members from other unions.
+        它从其他工会挖走了成员的说法
+          external                       | us: /ɪkˈstɜːrnl/                                   | adj.*外部的，表面的*，外面的，外部的，外来的，与外国有关的   n.外面，外部
+        e.g. the external appearance of the building
+        大楼的外观
+        e.g. influences from the external environment
+        外部环境的影响
+        e.g. information from external sources
+        来自外部的信息
+        e.g. China will not tolerate any external interference in its affairs.
+        中国不会容忍任何国家干涉其内政。
+        e.g. the Minister of State for External Affairs
+        外交大臣
+        e.g. The building has been restored externally and internally.
+        这栋建筑内外均已修复。
+        e.g. The university has many externally funded research projects.
+        这所大学有许多外界资助的研究项目。
+        e.g. The government is committed to reducing the country's external debt.
+        政府决心减少本国的外债。
+        e.g. An external auditor will verify the accounts.
+        外部审计员将核实这些账目。
+        e.g. (British English) external examiners/assessors
+        校外主考人 / 评定人
+        ! inventory                      | us: /ˈɪnvəntɔːri/                                  | n.*存货，详细目录*，存货清单，财产目录，财产目录的编制，存货总值，清查   vt.编制…的目录，开列…的清单，盘存，总结
+        e.g. an inventory of the museum's contents
+        博物馆馆藏清单
+        e.g. The inventory will be disposed of over the next twelve weeks.
+        在未来的十二个星期中将进行清仓处理。
+        e.g. inventory control
+        库存管理
+        e.g. Before starting, he made an inventory of everything that was to stay.
+        开始之前,他把所有要留下的东西列了详细的清单。
+        e.g. ...one inventory of twelve sails for each yacht.
+        每艘快艇 12 张帆的储备
+        e.g. In the future, however, China may have to revisit its statement about its nuclear weapons inventory.
+        未来, 中国仍然可能重申其一贯坚持核武政策, 然而英国的核武库存在未来可能会减少而不是增加.
+        e.g. You can create a quick and dirty inventory by going through home and photographing everything.
+        你可以清点家里物品并对每种物品拍照,就能很快创建一个财产目录.
+        e.g. We need to get rid of our surplus inventory.
+        (我们必须处理掉过剩的存货. )
+        e.g. So inventory management decision and its models are also important to ERP.
+        库存管理决策模型也是研究库存管理决策的主要手段之一.
+        e.g. The first control strategy of single inventory is EOQ model.
+        单级库存的第一种控制策略是基于经济订货批量(EOQ) 的库存补充模型.
+        ! disrupt                        | us: /dɪsˈrʌpt/                                     | v.使分裂，扰乱，使中断   adj.破裂的，中断的，混乱的
+        e.g. Traffic was disrupted by a hoax bomb.
+        有人虚报有炸弹,造成了交通混乱。
+        e.g. Climate change could disrupt the agricultural economy.
+        气候变化可能给农业经济带来不良影响。
+        e.g. Demonstrators succeeded in disrupting the meeting.
+        示威者成功地扰乱了会议。
+        e.g. Bus services will be disrupted tomorrow because of the bridge closure.
+        明日公共汽车将因大桥停止通行而受影响。
+        e.g. [不可数名词, 可数名词]We aim to help you move house with minimum disruption to yourself.
+        我们的宗旨是帮您搬家，并尽量减少它给您带来的不便。
+        e.g. disruptions to rail services
+        对铁路交通的干扰
+        e.g. The strike caused serious disruptions.
+        罢工造成了严重的混乱。
+        e.g. Anti-war protesters disrupted the debate.
+        反战示威者们打断了辩论。
+        e.g. The drought has severely disrupted agricultural production.
+        旱灾已严重影响了农业生产。
+        e.g. Viral replication can be blocked by antiviral drugs that disrupt DNA.
+        通过抗病毒药物破坏DNA来抑制病毒的复制.
+        ! plead                          | us: /pliːd/                                        | vi.恳求，辩论   vt.以…为理由，陈述案情，申辩，认罪，辩护   vt.& vi.申诉，答辩，为…辩护   【plea；demand】
+        e.g. 'Don't go!' Robert pleaded.
+        “别走！”罗伯特央求道。
+        e.g. She stayed home from work, pleading illness.
+        她告病在家不去上班。
+        e.g. She pleaded with him not to go.
+        她恳求他不要离开。
+        e.g. I was forced to plead for my child's life.
+        我被迫苦苦哀求给我的孩子一条生路。
+        e.g. pleading eyes
+        乞求的眼神
+        e.g. He pleaded to be allowed to see his mother one more time.
+        他恳求准许他再看妈妈一眼。
+        e.g. ‘Do something! ’ she pleaded.
+        “帮帮忙吧！”她央求道。
+        e.g. to plead guilty/not guilty
+        认罪；不认罪
+        e.g. How do you plead? (= said by the judge at the start of the trial)
+        你有何辩护？
+        e.g. He advised his client to plead insanity (= say that he/she was mentally ill and therefore not responsible for his/her actions) .
+        他建议他的当事人以精神不正常作为辩护理由。
+          investigate                    | us: /ɪnˈvestɪɡeɪt/                                 | v.调查，研究   【invest】
+        e.g. The study investigates the impact of violent TV programming on children.
+        该研究调查暴力电视节目对儿童的影响。
+        e.g. I heard a noise and went downstairs to investigate.
+        我听见响声,就下楼去看个究竟。
+        e.g. Penney was already being investigated by the police on suspicion of murder.
+        彭尼因涉嫌谋杀已在接受警方调查。
+        e.g. The FBI has been called in to investigate.
+        联邦调查局奉命进行调查。
+        e.g. (informal)‘What was that noise? ’ ‘I'll go and investigate. ’
+        “那是什么声音？”“我去看一下。”
+        e.g. This is not the first time he has been investigated by the police for fraud.
+        这不是警方第一次调查他是否有欺诈行为。
+        e.g. The research investigates how foreign speakers gain fluency.
+        这项研究旨在调查讲外语的人如何增加流利程度。
+        e.g. The two officers were being investigated by the director of public prosecutions...
+        两名警官正在接受检察官的审查。
+        e.g. Objective : To investigate the storage stability and biological properties of the new chitosan burn dressing.
+        目的: 检测新型壳聚糖烧伤敷料的储存稳定性,并进行生物学评价.
+        e.g. Objective : To investigate antitussive, antispasmodic, expectorant and antiinflammatory effects of Qinrezhike granules ( QZ ) through pharmacodynamic experiments.
+        目的: 通过药效学试验,观察清热止咳颗粒的镇咳 、 解 痉 、 祛痰及抗炎效果.
+        ! intrude                        | us: /ɪnˈtruːd/                                     | vi.*闯入*，侵入，侵扰，打扰，打扰   vt.*把观点强加于他人*，[地质]侵入其他地层，把…硬挤   【poach】
+        e.g. I'm sorry to intrude, but I need to talk to someone.
+        对不起打扰了，不过我得找人有话要说。
+        e.g. The sound of the telephone intruded into his dreams.
+        电话铃声把他从梦中扰醒了。
+        e.g. I don't want to intrude on your meeting...
+        我不想打扰你们的会议。
+        e.g. Do you feel anxious when unforeseen incidents intrude on your day?...
+        当意外事件干扰了你的生活时,你会感到焦虑吗？
+        e.g. There are times when personal feelings cannot be allowed to intrude.
+        有些时候是不允许夹杂个人感情的。
+        e.g. The officer on the scene said no one had intruded into the area.
+        在场的警官说没人闯入过这个地方。
+        e.g. We believe they intruded on to the field of play...
+        我们认为他们擅自闯入了球场。
+        e.g. I am afraid that I intrude upon you.
+        恐怕我打扰你了.
+        e.g. Don't intrude your own views upon others.
+        不要把你自己的意见强加给别人!
+        e.g. I do not want to intrude if you are busy.
+        如果你忙我就不打扰你了.
+          commercial                     | us: /kəˈmɜːrʃl/                                    | adj.商业（化）的，营利的，商品化的，商用的   n.商业广告
+        e.g. Our top priorities must be profit and commercial growth.
+        我们必须把利润和贸易增长作为我们的第一要务。
+        e.g. Gibbons failed to see the commercial value of his discovery.
+        吉本斯没有意识到自己的发现所具有的商业价值。
+        e.g. Their music has become very commercial.
+        他们的音乐已变得非常商业化。
+        e.g. a soap powder commercial
+        肥皂粉广告
+        e.g. His invention was not commercially successful.
+        他的发明从赢利角度看并不成功。
+        ! reveal                         | us: /rɪˈviːl/                                      | v.*揭露，展现*，揭示，展示   【disclose，expose，unfolding】
+        e.g. He may be prosecuted for revealing secrets about the security agency.
+        他可能因泄露安全部门的机密而被起诉。
+        e.g. a test that can reveal a teacher's hidden skills
+        能够展现老师潜在技能的测试
+        e.g. The curtain opened to reveal the grand prize.
+        大幕拉开,大奖展现在眼前。
+        e.g. After the garden makeover, it was time to bring the owners back for the big reveal.
+        园子改造完毕，该把主人们请回来上演大揭秘了。
+        e.g. to reveal a secret
+        泄露一条秘密
+        e.g. Details of the murder were revealed by the local paper.
+        地方报纸披露了谋杀的细节。
+        e.g. The report reveals (that) the company made a loss of £20 million last year.
+        报告显示，公司去年亏损2 000万英镑。
+        e.g. It was revealed that important evidence had been suppressed.
+        据透露，重要的证据被隐瞒了。
+        e.g. Officers could not reveal how he died.
+        警察们不能透露他的死因。
+        e.g. He laughed, revealing a line of white teeth.
+        他笑了起来，露出一排洁白的牙齿。
+        ! pledge                         | us: /pledʒ/                                        | n.*发誓，保证*，誓言，[法]抵押权，公约，（表示友谊的）干杯   vt.& vi.使发誓，保证，典当，抵押   vt.许诺，用…担保，以誓言约束，向…祝酒   vi.作出庄重有约束力的誓言，祝愿，祝酒
+        e.g. a pledge of support
+        支援的许诺
+        e.g. Will the government honour its election pledge not to raise taxes?
+        政府会履行它的竞选诺言，不增加税收吗？
+        e.g. Management has given a pledge that there will be no job losses this year.
+        资方保证今年不会削减工作职位。
+        e.g. Japan has pledged $100 million in humanitarian aid.
+        日本已承诺提供一亿元人道主义援助。
+        e.g. The government pledged their support for the plan.
+        政府保证支持这项计划。
+        e.g. We all had to pledge allegiance to the flag (= state that we are loyal to our country) .
+        我们都必须对国旗宣誓效忠。
+        e.g. The group has pledged to continue campaigning.
+        这个组织发誓继续投入运动。
+        e.g. The group has pledged that they will continue campaigning.
+        这个组织发誓他们将继续投入运动。
+        e.g. They were all pledged to secrecy.
+        他们都宣誓保密。
+        e.g. The government has pledged itself to root out corruption.
+        政府已承诺铲除腐败。
+        ! dispose                        | us: /dɪˈspoʊz/                                     | v.*布置，处理*，排列，安排，使倾向于   【upholstered 】
+        e.g. Chinese vases are disposed around the gallery.
+        中国花瓶摆放在展馆四周。
+        e.g. a drug that disposes the patient towards sleep
+        使病人想睡觉的药
+        e.g. to dispose of stolen property
+        销赃
+        e.g. That seems to have disposed of most of their arguments.
+        这样就似乎把他们的大部分论点都驳倒了。
+        e.g. It took her a mere 20 minutes to dispose of her opponent.
+        她仅用了20分钟就击败了对手。
+        e.g. Membrane separation technique was used to refine soybean oil and to dispose whey effluent.
+        摘要通过实验室小试、中试,实现了将膜分离技术应用于大豆油脂精炼及其乳清废水的治理中.
+        e.g. Calculation formula doe s not dispose approximately, is a exact explain of geometry method.
+        在保持精确几何关系的条件下,简化了几何造斜率的计算方法,所有计算公式都未做近似处理, 是几何法的精确解.
+        e.g. Where we can dispose of the increasing rubbish is a great headache to many governments ．.
+        在哪里能够处理日益增多的垃圾对于许多政府而言是个头痛的事情.
+        e.g. He doesn't know how to dispose of his spare time.
+        他不知如何打发空余时间.
+        e.g. Sell, mortgage, pledge, lease, transfer or otherwise dispose of a substantial portion of assets.
+        重大资产的出售 、 抵押 、 担保 、 租赁 、 转让或处置.
+          distribute                     | us: /dɪˈstrɪbjuːt/                                 | v.分发，配销，分配，分散，撒，播   【allocate，depute】
+        e.g. Milk is distributed to the local shops by Herald's Dairies.
+        牛奶由赫勒尔德乳品公司配送给当地商店。
+        e.g. The population is distributed in a very uneven pattern.
+        人口分布很不均匀。
+        e.g. The organization distributed food to the earthquake victims.
+        这个机构向地震灾民分发了食品。
+        e.g. The newspaper is distributed free.
+        这份报纸免费发送。
+        e.g. The money was distributed among schools in the area.
+        这笔款项是在本地区的学校中分配的。
+        e.g. Who distributes our products in the UK?
+        谁在英国经销我们的产品？
+        e.g. Make sure that your weight is evenly distributed.
+        注意让你的重量分布均匀。
+        e.g. Students shouted slogans and distributed leaflets...
+        学生们喊着口号，分发着传单。
+        e.g. Thousands of soldiers are working to distribute food and blankets to the refugees...
+        数以千计的士兵正在给难民们分发食物和毯子。
+        e.g. We didn't understand how difficult it was to distribute a national paper.
+        我们不了解分销一份全国发行的报纸有多难。
+        ! soothing                       | us: /ˈsuðɪŋ/                                       | adj.慰藉的，使人宽心的，镇静的   v.安慰( soothe的现在分词 )，抚慰，使舒服，减轻痛苦   【seething <沸腾>】
+        e.g. Cucumber is good for soothing tired eyes.
+        黄瓜有助于舒缓眼部疲劳。
+        e.g. Cold tea is very soothing for burns.
+        凉的茶水非常有助于减轻烧伤灼痛。
+        e.g. Put on some nice soothing music.
+        播放一些柔和舒缓的音乐。
+        e.g. His casual, relaxed manner was very soothing.
+        他随意而放松的举动让人很快便平静下来。
+        e.g. Her touch felt wonderfully soothing.
+        她的触摸令人感到很宽心.
+        e.g. His soothing words subdued her fears.
+        他的安慰话减轻了她的恐惧.
+        e.g. The soothing, cooling effect is caused by the evaporation of the sweat on the skin.
+        这种放松而又凉爽的感觉是由于皮肤表面汗液的蒸发而产生的。
+        e.g. His voice was deep and mellow and his speech had a soothing and comforting quality.
+        他的嗓音低沉悦耳，他的讲话能抚慰人心。
+        e.g. They had dressed his varicose ulcer with soothing ointment.
+        他们在静脉曲张的疮口上抹了清凉的油膏.
+        e.g. Rhett's voice was interested and soothing and Bonnie's sobs died away.
+        瑞德的声音认真而亲切,邦妮听着听着就不抽泣了.
+        ! plausible                      | us: /ˈplɔːzəbl/                                    | adj.*貌似有理的，似乎可能的*，貌似真实的，花言巧语的，有眉有眼
+        e.g. His story certainly sounds plausible.
+        他的叙述听上去当然很合理。
+        e.g. a plausible explanation
+        说得过去的解释
+        e.g. a plausible liar
+        一个能说会道的撒谎者
+        e.g. Her story sounded perfectly plausible.
+        她的说辞听起来言之有理。
+        e.g. The only plausible explanation is that he forgot.
+        唯一合理的解释就是他忘掉了。
+        e.g. She was a plausible liar.
+        她是个巧言令色的说谎高手。
+        e.g. A more plausible explanation would seem to be that people are fed up with the Conservative government...
+        貌似更加合理的解释似乎是，人们已经厌倦了保守党政府。
+        e.g. That explanation seems entirely plausible to me.
+        那个解释在我看来完全说得通。
+        e.g. He was so plausible that he conned everybody.
+        他那么会花言巧语，以至于骗过了所有的人。
+        e.g. This theory seems very plausible.
+        这理论似乎非常有头绪.
+        ! arbiter                        | us: /ˈɑrbɪtə(r)/                                   | n.*法官，权威人士*，[法]仲裁人，裁决者，主宰者
+        e.g. an arbiter of taste/style/fashion
+        鉴赏 / 款式 / 时装权威
+        e.g. The law is the final arbiter of what is considered obscene.
+        何谓猥亵最终由法律裁决。
+        e.g. Sequins have often aroused the scorn of arbiters of taste.
+        闪光装饰片经常引起时尚引领者的鄙视。
+        e.g. ...the court's role as arbiter in the law-making process.
+        法庭在制定法律过程中担任裁决机构的角色
+        e.g. He was the ultimate arbiter on both theological and political matters.
+        他在神学和政治事务上都是最终的仲裁人。
+        e.g. It is supposed to be an independent arbiter of taste and art historical value.
+        被认为是鉴赏和估算艺术品价值的权威人士.
+        e.g. The arbiter will have the last say.
+        仲裁员的裁定是终局性的.
+        e.g. Experiment is the final arbiter in science.
+        实验是科学的最后仲裁者.
+        e.g. The true arrogance is that you are the final arbiter of the democratic process.
+        真正的傲慢是假设自己是民主程序的最终仲裁者.
+        e.g. In this circumstance, the court acts as final arbiter on a difficult issue.
+        在这种情况下, 最高法院就这些难以处理的问题作最后的裁决.
+        ! distaste                       | us: /dɪsˈteɪst/                                    | n.厌恶，讨厌
+        e.g. a distaste for politics of any sort
+        对任何形式的政治的反感
+        e.g. He looked around the filthy room in distaste.
+        他厌恶地环顾着这肮脏的房间。
+        e.g. Roger looked at her with distaste...
+        罗杰厌恶地看着她。
+        e.g. He professed a distaste for everything related to money.
+        他声称厌恶与金钱有关的一切。
+        e.g. Stifling his distaste, Miles undressed the old man.
+        迈尔斯强忍住厌恶, 给老家伙脱下衣服.
+        e.g. She grimaced in / with distaste at the thought of it.
+        她一想到那个就厌恶得作怪相.
+        e.g. If you a distaste for it, you might want to switch employers.
+        如果你对它有着严重的厌恶感, 那么你可能要换雇主了.
+        e.g. The movement was characterized by its disregard of outlines and distaste for sombre colours.
+        这一运动的特色是无视轮廓和厌恶暗淡的色彩.
+        e.g. He picked up the rubbish with distaste.
+        他厌恶地捡起垃圾.
+        e.g. He noted with distaste his own trick of appealing for sympathy.
+        他发觉自己又在卖弄乞求同情的花招,感到非常恶心.
+        ! revise                         | us: /rɪˈvaɪz/                                      | vt.*修订*，改变，修正，[主英国英语]*复习*   vt.& vi.复习   vi.修订，校订
+        e.g. The college has revised its plans because of local objections.
+        由于地方上的反对,学院已经修改了计划。
+        e.g. We have revised our estimates of population growth.
+        我们已修正了对人口增长的估计。
+        e.g. I've got to revise my geography.
+        我得复习一下地理。
+        e.g. A couple of sections of the book will need to be revised.
+        本书部分章节需要修订。
+        e.g. I can see I will have to revise my opinions of his abilities now.
+        我明白我现在不得不改变对他的能力的看法了。
+        e.g. The government may need to revise its policy in the light of this report.
+        政府可能需要根据这份报告改变其政策。
+        e.g. a revised edition of a textbook
+        课本的修订版
+        e.g. I'll prepare a revised estimate for you.
+        我将为你准备一份经过修正的评估报告。
+        e.g. We may have to revise this figure upwards.
+        我们也许要将这个数字往上调一调。
+        e.g. I can't come out tonight. I have to revise.
+        我今晚不能出去。我得复习。
+          combat                         | us: /ˈkɑːmbæt/                                     | n.*战斗，格斗*，斗争   v.战斗，防止，减轻
+        e.g. new strategies for combatting terrorism
+        打击恐怖主义的新战略
+        e.g. She always wore combats, which were more fashionable than jeans.
+        她总是穿战斗裤,比穿牛仔裤更时髦。
+        e.g. He was killed in combat .
+        他在战斗中阵亡。
+        e.g. armed/unarmed combat (= with/without weapons)
+        武装 / 非武装对抗
+        e.g. combat troops
+        作战部队
+        e.g. combat boots
+        军靴
+        e.g. measures to combat crime/inflation/unemployment/disease
+        防止犯罪 / 通货膨胀 / 失业 / 疾病的措施
+        e.g. Over 16 million men had died in combat...
+        1,600多万人在战斗中牺牲。
+        e.g. Yesterday saw hand-to-hand combat in the city.
+        昨天该市发生了肉搏战。
+        e.g. It was the end of a long combat.
+        这是一场长期斗争的结束。
+        ! invert                         | us: /ɪnˈvɜːrt/                                     | vt.*使···颠倒，倒转物*，使…前后倒置，使反转   【revert，reverse，reversal】
+        e.g. If you invert  I can  , you have  can I .
+        如果你把Ican两词前后颠倒一下,就成了 can I.
+        e.g. They may be hoping to invert the presumption that a defendant is innocent until proved guilty.
+        他们可能有望颠覆“被告在证实有罪之前是无辜的”这一假设。
+        e.g. Invert the cake onto a cooling rack.
+        把蛋糕倒扣在冷却架上。
+        e.g. Alternatively, we may invert the file.
+        换一种方法, 我们可以将此文件倒排.
+        e.g. I averted my eyes from the diverse advertisements for the invert converter.
+        我把目光从花样繁多的倒置转换器广告上移开.
+        e.g. She catch the insect by invert her cup over it.
+        她把杯子倒扣在昆虫上,将它逮住了.
+        e.g. The performance of current loop is important to an invert welding supply.
+        电流闭环的控制质量对逆变焊机是非常重要的.
+        e.g. Invert Your Mind ? Blog Archive ? Do we really need code reloading?
+        调试程序的时候真的需要实时代码刷新 吗 ?
+        e.g. When forming a question, invert the subject and the verb.
+        在构造疑问句时, 要颠倒主语和谓语的位置.
+        e.g. The Cagniard - de Hoop method is employed to invert the transforms.
+        进一步利用 abel 定理和Cagniard-deHoop方法,求得了动态应力强度因子的精确解.
+          approval                       | us: /əˈpruːvl/                                     | n.赞成，认可，通过，赞许，试用   【approval，uphold】
+        e.g. A murmur of approval passed through the crowd.
+        人群纷纷低声称是。
+        e.g. Several people nodded in approval .
+        好几个人点头表示同意。
+        e.g. The plan will be submitted to the committee for official approval.
+        该计划将送交委员会正式批准。
+        e.g. parliamentary/congressional/government approval
+        议会的 / 国会的 / 政府的批准
+        e.g. Senior management have given their seal of approval (= formal approval) to the plans.
+        高层管理部门已经正式批准这些计划。
+        e.g. I can't agree to anything without my partner's approval.
+        没有合伙人的认可我什么也不能答应。
+        e.g. planning approvals
+        （建筑）规划的批准
+        e.g. The proposal is subject to approval by the shareholders (= they need to agree to it) .
+        这项建议须得到股东的批准。
+        e.g. She desperately wanted to win her father's approval.
+        她急不可待地想赢得父亲的赞同。
+        e.g. Do the plans meet with your approval ?
+        这些计划你赞成吗？
+          sole                           | us: /soʊl/                                         | adj.*唯一的，专用的*，单独的，专有的，独占的   n.鞋底，有…底的 -soled，脚底，鳎（可食用比目鱼）   vt.给（鞋）换底   【soul】
+        e.g. the sole American in the room
+        房间里唯一的美国人
+        e.g. Dover sole
+        太平洋油鲽
+        e.g. the sole surviving member of the family
+        那一家唯一在世的成员
+        e.g. My sole reason for coming here was to see you.
+        我到这儿唯一的原因就是来看你。
+        e.g. This is the sole means of access to the building.
+        这是这栋建筑物唯一的入口。
+        e.g. She has sole responsibility for the project.
+        那个项目由她一人负责。
+        e.g. the sole owner
+        拥有全部产权的物主
+        e.g. The hot sand burned the soles of their feet .
+        灼热的沙地使他们的脚掌感到火辣辣的。
+        e.g. leather soles
+        皮质鞋底
+        e.g. rubber-soled shoes
+        胶底鞋
+        ! retrospect                     | us: /ˈretrəspekt/                                  | n.*回想，追忆*，回顾   vi. 回顾，追溯；回想   vt. .回顾；追忆   【recollect，recall】
+        e.g. In retrospect, I wonder if we should have done more.
+        回过头看,我在想我们是否应该做得更多些。
+        e.g. In retrospect, I think that I was wrong.
+        回首往事，我觉得当时我错了。
+        e.g. The decision seems extremely odd, in retrospect.
+        回想起来，这个决定显得极其荒谬。
+        e.g. In retrospect, I wish that I had thought about alternative courses of action...
+        回想起来，我真希望自己当时考虑过其他做法。
+        e.g. It was a very strange feeling in retrospect — I was frightened, but excited at the same time.
+        回想起来那是一种非常奇怪的感觉——我当时既害怕又兴奋。
+        e.g. It was , in retrospect, the happiest day of her life.
+        回想起来, 那是她一生最幸福的日子.
+        e.g. The first part mainly reviews the achievements related to this research retrospect.
+        第一部分,主要回顾了与本研究相关的研究成果.
+        e.g. In retrospect it may seem odd.
+        回顾一下,似乎有点奇怪.
+        e.g. In retrospect, it was right to let Lehman go, because it caused such a disaster.
+        回过头看, 让雷曼破产是对的, 因为它引发了一场如此严重的灾难.
+        e.g. In retrospect it's obvious how we went wrong.
+        回想起来,我们是如何出的错就很明显了.
+          explore                        | us: /ɪkˈsplɔːr/                                    | v.*探险，摸索*，在…探险，探讨，勘探
+        e.g. Management need to explore ways of improving office security.
+        管理层需要探讨如何加强办事处的安全措施。
+        e.g. Venice is a wonderful city to explore.
+        威尼斯是一个美妙的城市,值得好好探究一番。
+        e.g. Gingerly she explored the bump on her head with her fingers.
+        她小心翼翼地用手指摸了摸头上的肿块。
+        e.g. The city is best explored on foot.
+        最好是徒步考察这个城市。
+        e.g. They explored the land to the south of the Murray river.
+        他们勘查了墨累河以南的地区。
+        e.g. As soon as we arrived on the island we were eager to explore.
+        我们一来到岛上就急不可耐地开始探胜。
+        e.g. These ideas will be explored in more detail in chapter 7.
+        这些想法将在第7章里作更详细的探讨。
+        e.g. She explored the sand with her toes.
+        她用脚趾感觉沙的情况。
+        e.g. I just wanted to explore Paris, read Sartre, listen to Sidney Bechet...
+        我就想逛逛巴黎，读读萨特的作品，听听悉尼·贝谢的音乐。
+        e.g. The secretary is expected to explore ideas for post-war reconstruction of the area...
+        部长预计将会探讨这个地区战后重建的意见。
+          invest                         | us: /ɪnˈvest/                                      | v.*投资，投入（时间/精力等）*，授予   【investment；investigate】
+        e.g. I've got a few thousand dollars I'm looking to invest.
+        我有几千美元想投资。
+        e.g. Now is a good time to invest in the property market.
+        现在是对房地产市场投资的好时机。
+        e.g. He invested his life savings in his daughter's business.
+        他把一生的积蓄投资到了女儿的企业。
+        e.g. The government has invested heavily in public transport.
+        政府已对公共交通投入了大量资金。
+        e.g. The college is to invest $2 million in a new conference hall.
+        这所学院计划投入200万元建造新的会议大厅。
+        e.g. In his time managing the club he has invested millions on new players.
+        他在管理俱乐部期间投入了几百万培养新运动员。
+        e.g. She had invested all her adult life in the relationship.
+        她把成年后的时间全用于维护那一关系。
+        e.g. The new position invested her with a good deal of responsibility.
+        新职位赋予她重大的责任。
+        e.g. The interview was broadcast on the same day he was invested as President.
+        这次采访是在他成为总统的当天播放的。
+        e.g. Don't you think it's about time you invested in a new coat?
+        你不觉得该花点钱买件新外套了吗？
+        ! extinguish                     | us: /ɪkˈstɪŋɡwɪʃ/                                  | v. *消灭，灭绝*，熄灭，扑灭，使破灭   【extinct，extinction，extinguish；ember】
+        e.g. Please extinguish all cigarettes.
+        请把香烟都熄灭了。
+        e.g. Firemen were called to extinguish the blaze.
+        有人打电话叫消防队员来扑灭大火。
+        e.g. All hope was almost extinguished.
+        所有的希望都快要破灭了。
+        e.g. (formal)All lights had been extinguished.
+        所有灯光都熄灭了。
+        e.g. News of the bombing extinguished all hope of peace.
+        轰炸的消息使和平的希望全部破灭。
+        e.g. Firefighters tried to extinguish the flames.
+        消防队员奋力救火。
+        e.g. The message extinguished her hopes of Richard's return.
+        那条消息使她对理查德归来的希望彻底破灭。
+        e.g. It took about 50 minutes to extinguish the fire...
+        大约花了50分钟才把火扑灭。
+        e.g. The lights are extinguished as soon as the news conference is over.
+        新闻发布会一结束，灯光就熄灭了。
+        e.g. Once you allow that human life is subject to reason, you extinguish any possibility of life.
+        当你试图把人类的生活归结为逻辑的时候, 你就将生命中所有的可能性都抹杀了.
+          plenty                         | us: /ˈplenti/                                      | n.丰富，富裕   pron.大量   det. 大量   adv.大量，非常   【sufficient，surplus】
+        e.g. This apartment's plenty big enough for two.
+        这套公寓够宽敞,可以住两个人。
+        e.g. I'd practiced plenty.
+        我已经练得够多了。
+        e.g. I was plenty nervous.
+        我很紧张。
+        e.g. a land of plenty
+        一片富饶的土地
+        e.g. There was food and wine in plenty.
+        食物和葡萄酒都很充足。
+        e.g. plenty of eggs/money/time
+        充裕的鸡蛋 / 钱 / 时间
+        e.g. ‘Do we need more milk? ’ ‘No, there's plenty in the fridge. ’
+        “我们要不要再买些牛奶？”“不必了。冰箱里还多着呢。”
+        e.g. They always gave us plenty to eat.
+        他们总是给我们好多东西吃。
+        e.g. We had plenty to talk about.
+        我们有说不完的话。
+        e.g. We have plenty more of them in the warehouse.
+        我们仓库里这类东西还多得很。
+        ! diverse                        | us: /daɪˈvɜːrs/                                    | adj.形形色色的，不同的
+        e.g. subjects as diverse as pop music and archaeology
+        像流行音乐和考古学这样千差万别的学科
+        e.g. people from diverse cultures
+        不同文化背景的人
+        e.g. My interests are very diverse.
+        我的兴趣非常广泛。
+        e.g. ...shops selling a diverse range of gifts...
+        出售各种礼品的商店
+        e.g. Society is now much more diverse than ever before.
+        当今社会较之以往任何时候都要丰富多彩得多。
+        e.g. Jones has a much more diverse and perhaps younger audience.
+        琼斯的观众群更为多样化而且可能更年轻。
+        e.g. The loading surface has been designed to hold various load - bed units for diverse purposes.
+        装载表面设计上已举行各种负荷床单位为各种各样的目的.
+        e.g. Use multiple processes and diverse perspectives to explore alternative solutions.
+        从多种途径和不同的视角去深入比较各种解决方案.
+        e.g. To start things off, it is very simple; Men are just as diverse as women.
+        开始的时候需要做的事情非常简单. 男人和女人一样多变.
+        e.g. Our portfolio is very diverse, it includes companies located in the Midwest and Southwestern United States.
+        投资案例是多种多样的 、 包括位于美国西南和中西部的企业.
+          reward                         | us: /rɪˈwɔːrd/                                     | n.报酬，奖励，回报，赏金   v.奖励，酬谢，值得（付出）
+        e.g. The school has a system of rewards and punishments to encourage good behaviour.
+        学校有奖惩制度以鼓励良好行为。
+        e.g. Finally, Molly's patience was rewarded.
+        莫莉的耐心终于有了回报。
+        e.g. a financial reward
+        经济奖励
+        e.g. a reward for good behaviour
+        优秀行为奖
+        e.g. The company is now reaping the rewards of their investments.
+        公司正在收获他们的投资回报。
+        e.g. You deserve a reward for being so helpful.
+        你帮了这么大的忙，理应受到奖励。
+        e.g. Winning the match was just reward for the effort the team had made.
+        赢得比赛的胜利是全队付出努力应得的回报。
+        e.g. A £100 reward has been offered for the return of the necklace.
+        已悬赏100英镑找寻项链。
+        e.g. She was rewarded for her efforts with a cash bonus.
+        她因自己所作的努力而得到一笔奖金。
+        e.g. He rewarded us handsomely (= with a lot of money) for helping him.
+        对于我们的帮助，他大加酬谢。
+        ! commission                     | us: /kəˈmɪʃn/                                      | v.*委任*，正式委托，任命…为军官   n.*委员会*，佣金，手续费，正式委托，犯（罪）   【commend，depute，allocate】
+        e.g. The dealer takes a 20% commission on the sales he makes.
+        经销商按销售额收取20%的佣金。
+        e.g. a commission from the Academy for a new sculpture
+        学院要求制作一尊新雕塑的委托
+        e.g. The operating theatres will be back in commission next week.
+        手术室下周可以恢复使用。
+        e.g. a commission on human rights
+        人权委员会
+        e.g. the European Commission
+        欧洲委员会
+        e.g. You get a 10% commission on everything you sell.
+        你可从你售出的每件商品中获得10%的佣金。
+        e.g. He earned £2 000 in commission last month.
+        他上个月挣了2 000英镑的佣金。
+        e.g. In this job you work on commission (= are paid according to the amount you sell) .
+        你做这份工作按销售额提成。
+        e.g. 1% commission is charged for cashing traveller's cheques.
+        兑现旅行支票收取1％ 的手续费。
+        e.g. the commission of a crime
+        犯罪
+        ! explicit                       | us: /ɪkˈsplɪsɪt/                                   | adj.*详尽的，明确的*，易于理解的，明确的，直言的   【elaborate】
+        e.g. The film contains some very explicit love scenes.
+        这部影片中有一些非常露骨的性爱镜头。
+        e.g. Be explicit when you talk about money with your family.
+        与家人谈钱的问题要直截了当。
+        e.g. [不可数名词]He didn't like the degree of sexual explicitness in the film.
+        他不喜欢那部电影里性爱露骨的程度。
+        e.g. The report states explicitly that the system was to blame.
+        报告明确指出问题出在制度上。
+        e.g. a sexually explicit film
+        一部有露骨性爱场面的影片
+        e.g. She made some very explicit references to my personal life.
+        她毫不隐讳地谈到了我的私生活。
+        e.g. The reasons for the decision should be made explicit.
+        应该直截了当给出决定的理由。
+        e.g. She was quite explicit about why she had left.
+        她对自己离开的原因直言不讳。
+        e.g. He gave me very explicit directions on how to get there.
+        他清楚地向我说明了去那儿的路线。
+        e.g. He was explicit about his intention to overhaul the party's internal voting system.
+        他直言自己的目的是改革党内的投票制度。
+        ! pluck                          | us: /plʌk/                                         | vt.*采，摘*，拔掉，鼓起（勇气等），弹（乐器）   n.勇气，精神，内脏，快而猛的拉，〈俚〉不及格   vi.拉，拽
+        e.g. He finally plucked up enough courage to ask her out.
+        他终于鼓起勇气约她出去。
+        e.g. I'm plucking a figure out of the air here, but let's say it'll cost about $15,000.
+        这里我随口说一个数字,比如说这要大约15,000美元。
+        e.g. She plucked out a grey hair.
+        她拔掉了一根灰白头发。
+        e.g. expertly plucked eyebrows
+        拔得精巧的眉毛
+        e.g. to pluck the strings of a violin
+        弹拨小提琴的弦
+        e.g. He took the guitar and plucked at the strings.
+        他拿起吉他拨动起琴弦来。
+        e.g. Police plucked a drowning girl from the river yesterday.
+        昨天警方从河里救起了一名溺水少女。
+        e.g. Survivors of the wreck were plucked to safety by a helicopter.
+        沉船的幸存者被直升机营救脱险。
+        e.g. She was plucked from obscurity to instant stardom.
+        她从默默无闻中得到提携，转瞬成为明星。
+        e.g. He plucked the wallet from the man's grasp.
+        他抢走了那个男人紧抓着的钱包。
+        ! revenue                        | us: /ˈrevənuː/                                     | n.税收，财政收入，收益
+        e.g. advertising revenue
+        广告收入
+        e.g. a shortfall in tax revenue
+        税收收入不足
+        e.g. a slump in oil revenues
+        石油收入的下跌
+        e.g. The company's annual revenues rose by 30%.
+        公司的年收入增加了30%。
+        e.g. ...a boom year at the cinema, with record advertising revenue and the highest ticket sales since 1980...
+        电影院非常景气的一年，创下1980年以来广告及票房收入新高
+        e.g. One study said the government would gain about $12 billion in tax revenues over five years.
+        一项研究表明政府将在5年中获得约120亿美元的税收。
+        e.g. Thefactorsaffecting hospital service revenue included : year of calculation, hospital and bonus type.
+        42%.影响医院业务收入的因素包括:年份 、 医院、奖金类型.
+        e.g. Transportation is a good source of revenue.
+        客运业是财政收入的一个重要来源.
+        e.g. On Revenue avenue, the grave traveler jumped the gravestone bravely.
+        在税收大道上, 严肃的旅行者勇敢地跳过墓碑.
+        e.g. The revenue is derived from the following sources.
+        岁入来自如下财源.
+        ! disturb                        | us: /dɪˈstɜːrb/                                    | v.*搅乱，妨碍*，打扰，打断，使焦虑
+        e.g. If you find a bird's nest, never disturb the eggs.
+        如果你发现鸟巢,千万别去动鸟蛋。
+        e.g. My hormone balance is disturbed by my pregnancy.
+        怀孕打乱了我的激素平衡。
+        e.g. New procedures often disturb the comfortable habits of the workforce.
+        新的程序常常会打乱职工习以为常的习惯。
+        e.g. The thieves fled when they were disturbed by a neighbour.
+        窃贼们被一位邻居惊动后逃跑了。
+        e.g. What disturbs you most about this latest development?
+        最新的事态发展让你最担心的是什么？
+        e.g. Do not disturb (= a sign placed on the outside of the door of a hotel room, office, etc.)
+        请勿打扰（旅馆房间、办公室等门上的提示牌）
+        e.g. She awoke early after a disturbed night.
+        她折腾了一夜，很早就醒了。
+        e.g. Don't disturb the papers on my desk.
+        别把我写字台上的文件弄乱了。
+        e.g. The letter shocked and disturbed me.
+        这封信使我感到震惊和不安。
+        e.g. It disturbed her to realize that she was alone.
+        她意识到自己孤单一人，心里感到很不安。
+        
