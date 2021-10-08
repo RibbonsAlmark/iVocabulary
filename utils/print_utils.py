@@ -70,6 +70,7 @@ def print_help_text():
     help_text += "    r   : read words in vocabulary \n"
     help_text += "    rmk : remark words in vocabulary \n"
     help_text += "    dl  : download resources vocabularies need \n"
+    help_text += "    mg  : merge new vocabulary from giving vocabularies \n"
     help_text += "    q   : quit \n"
 
     print(help_text)

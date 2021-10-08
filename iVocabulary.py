@@ -96,6 +96,9 @@ if __name__ == "__main__":
             remark(vocabulary_file_root)
         elif op == 'dl':
             download_resources()
+        elif op == 'mg':
+            from functions.merge_new_vocabulary import merge_new_vocabulary
+            merge_new_vocabulary(vocabulary_file_root)
         elif op == 'q':
             print("\nQUIT\n")
             break

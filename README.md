@@ -1,2 +1,4 @@
 # iVocabulary
-project iVocabulary, a llittle toolkit for words memory
+project iVocabulary, a little toolkit for words memory
+
+需要安装FFmpeg

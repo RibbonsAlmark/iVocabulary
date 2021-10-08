@@ -54,8 +54,8 @@ def vocabulary_reorder(vocabulary_file_root):
     vocabulary_path = os.path.join(vocabulary_file_root, f"{vocabulary_name}.txt")
 
     # TODO:
-    randomization(vocabulary_path)
-    # focus_on_marked(vocabulary_path)
+    # randomization(vocabulary_path)
+    focus_on_marked(vocabulary_path)
     return
 
 
@@ -87,6 +87,8 @@ def focus_on_marked(vocabulary_path):
 
     with open(vocabulary_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
+
+    random.shuffle(lines)
 
     for line in lines:
         if line[0] == '!':

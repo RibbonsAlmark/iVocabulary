@@ -153,7 +153,7 @@ class icibaDictRat:
         if '(' in word:word = word.replace('(', '').replace(')', '')
         self.cursor.execute(f"""SELECT * FROM dictionary WHERE word='{word}'""")
         results = self.cursor.fetchall()
-        if len(results) > 0:return
+        if len(results) > 0:return 1
 
         word, phonetic_info, phonetic_audios_info, meanings_info, eg_info, exam_info = self.get_word_info(word)
         pharsed_word_info = self.__pharse_word_info__(phonetic_info, meanings_info, eg_info, exam_info)
@@ -164,7 +164,7 @@ class icibaDictRat:
 
         self.__save_word_info__(word, phonetic_text, meanings_text, eg_text, exam_text, mark)
         self.__save_audio__(word, phonetic_audios_info)
-        return
+        return 0
 
     def __del__(self):
         self.__db_disconnnect__()
@@ -185,16 +185,18 @@ def rat_look_vocabularies(vocabulary_path):
             word = info_list[0]
             meanings_text = info_list[2]
             
-            # try:
-            #     dict_rat.get_word(word, meanings_text=meanings_text)
-            # except Exception as e:
-            #     print(e)
-            #     failed_num += 1
-            dict_rat.get_word(word, meanings_text=meanings_text)
+            try:
+                ret_code = dict_rat.get_word(word, meanings_text=meanings_text)
+            except Exception as e:
+                # print(e)
+                failed_num += 1
+                ret_code = 1
+            # ret_code = dict_rat.get_word(word, meanings_text=meanings_text)
 
             print(f"\rsaving words in <{vocabulary_path}> ... ({i + 1} / {line_num}) ", end='')
             # sleep_time = random.randint(5,20) / 10
-            # time.sleep(sleep_time)
+            sleep_time = random.randint(5,20)
+            if ret_code == 0: time.sleep(sleep_time)
     print('')
     return failed_num, line_num
 
